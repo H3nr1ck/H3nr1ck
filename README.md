@@ -18,5 +18,4 @@
 
 <a href="https://www.instagram.com/gu4d4luppe/profilecard/?igsh=bWttNjJnbDkzbzcw" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.linkedin.com/in/gabriel-oliveira-568a8531b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-![Snake animation](https://github.com/H3nr1ck)
 </div>
